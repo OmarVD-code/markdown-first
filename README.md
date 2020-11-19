@@ -94,8 +94,6 @@ print("hellow world")
 <h2>Title2</h2>
 ```
 
-<!-- TABLAS -->
-
 
 <!-- IMAGEN -->
 ![visual studio code logo](vscode_logo.png "vscodelogo")
@@ -108,7 +106,10 @@ print("hellow world")
 
 @warevil :smiley: :+1:
 
-
-
-    
+<!-- TABLAS -->
+| Nombre        | Apellido      | Edad  |
+| ------------- |:-------------:| -----:|
+| *Iker*        | *Casillas*  | `40`    |
+| **Sergio**       | **Ramos**    | `40`    |
+| ~~Usuario~~       | ~~Desconocido~~  | `80`    |
     
